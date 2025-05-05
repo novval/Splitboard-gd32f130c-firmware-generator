@@ -9,7 +9,7 @@
 
 Скачивать приложение в https://github.com/novval/Splitboard-gd32f130c-firmware-generator/releases  
 
-Для управления в режиме UART использовать приложение https://github.com/novval/UartRC/tree/1.0.0.2.g4d29289fba
+Для управления в режиме UART использовать приложение https://github.com/novval/UartRC
 
 ![image](https://github.com/user-attachments/assets/8030f883-5474-4412-86ec-89e728f7b593)
 
